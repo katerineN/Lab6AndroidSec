@@ -82,4 +82,4 @@ class GeofenceBroadcastReceiver : BroadcastReceiver() {
     }
 }
 
-private const val TAG = "GeofenceReceiver"
+private const val TAG = "Treasure Hunt"
